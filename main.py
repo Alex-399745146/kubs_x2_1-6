@@ -85,3 +85,4 @@ if counter != 0:
     print('ВСЕГО ХОДОВ ПРИ ВЫПОДЕНИИ КУША:', counter, 'раз')
 print()
 print()
+print()
